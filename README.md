@@ -55,7 +55,7 @@ AI를 기획·개발·검증 과정에 연결하는 방법을 실험합니다.
 
 <sub>Next.js · React · TypeScript · Zustand</sub>
 
-[Repository →](https://github.com/bluewow/go_flow) · [Demo →](https://go-flow-mocha.vercel.app)
+[Repository →](https://github.com/bluewow/go_flow)
 
 </td>
 </tr>
