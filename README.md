@@ -15,20 +15,15 @@
 |---|---|
 | **DAU 20만** | ezlab 백엔드 · 웹 파트장 (모비소프트) |
 | **13명 · 이탈률 0%** | AI 디지털 교과서 개발팀 리드 (마타에듀) |
-| **응답 50%+ 단축** | DDD · Facade 재설계 + 병렬 처리 |
+| **설계** | DDD · Facade 재설계 + 병렬 처리 |
 | **CSAP ‘SaaS 중’** | AI 디지털 교과서 보안인증 획득 |
 | **TOP 100** | Google Gemini 해커톤 · 카카오 AI TOP 100 본선 |
 
 #### 최근 만든 것
 
-- **오소소** — 소상공인 단골 관리 서비스 · 기획부터 운영까지 1인 · [ohsoso.net](https://ohsoso.net)
+- **오소소** — 소상공인 단골 관리 서비스 · 기획부터 운영까지 1인
 - **더파마뉴스** — 기술 자문 · 1인 풀스택 · AI 콘텐츠 파이프라인(수집 → AI 편집 → 검수 → 발행)
-- **노무히어로** — 소상공인 노무 관리 · Flutter 앱과 웹 동시 개발
 
 #### 기술
 
 `Next.js` `TypeScript` · `Java` `Kotlin` `Spring Boot` · `AWS` `Docker` `Kubernetes` `Vercel` · `Claude Code` `MCP` `Gemini`
-
-#### 연락
-
-✉️ dogseen@gmail.com
